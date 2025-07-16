@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShipDesktop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87a9a3e8545ea232bdc86d86b220dc307497858d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShipDesktop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShipDesktop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -20,5 +20,27 @@ namespace ShipDesktop
         {
             InitializeComponent();
         }
+
+        private void Minimize_Click(object sender, RoutedEventArgs e)
+        {
+            WindowState = WindowState.Minimized;
+        }
+
+        private void Maximize_Click(object sender, RoutedEventArgs e)
+        {
+            WindowState = (WindowState == WindowState.Maximized) ? WindowState.Normal : WindowState.Maximized;
+        }
+
+        private void Close_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
+        private void Window_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            if (e.ChangedButton == MouseButton.Left)
+                DragMove();
+        }
+
+
     }
 }
