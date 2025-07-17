@@ -16,9 +16,15 @@ namespace ShipDesktop
     /// </summary>
     public partial class MainWindow : Window
     {
+        private HttpServer _httpServer;
         public MainWindow()
         {
             InitializeComponent();
+
+            Console.WriteLine("HELLOOOOOO");
+
+            _httpServer = new HttpServer();
+            _httpServer.Start("http://localhost:5000/");
         }
 
         private void Minimize_Click(object sender, RoutedEventArgs e)

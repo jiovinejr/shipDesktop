@@ -1,7 +1,7 @@
 ﻿ShipDesktop
 1.0.0.0
 
-winexe
+exe
 C#
 .cs
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\obj\Debug\net8.0-windows\
@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\App.xaml
 32102364763
 
-131151846136
+14300394221
 215-1065146278
 MainWindow.xaml;Views\HomeView.xaml;Views\UploadView.xaml;
 

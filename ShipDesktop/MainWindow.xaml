@@ -14,7 +14,7 @@
         <local:MainViewModel />
     </Window.DataContext>
     <Border 
-        Background="#FF2E2E3E"
+        Background="AntiqueWhite"
         BorderBrush="Transparent" 
         BorderThickness="1"
         Margin="20"
@@ -55,10 +55,10 @@
             </Border>
 
             <!-- Left Navigation Panel -->
-        <StackPanel Grid.Column="0" 
+            <StackPanel Grid.Column="0" 
                         Grid.Row="1"
-                    Background="{DynamicResource MaterialDesignPaper}">
-            <Button Content="Home"
+                    Background="#FF1E1E2F">
+                <Button Content="Home"
                     Command="{Binding NavigateCommand}"
                     CommandParameter="Home"
                      Foreground="White">
