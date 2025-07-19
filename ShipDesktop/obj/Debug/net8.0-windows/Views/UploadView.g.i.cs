@@ -52,7 +52,7 @@ namespace ShipDesktop.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ShipDesktop;V1.0.0.0;component/views/uploadview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ShipDesktop;component/views/uploadview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\UploadView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

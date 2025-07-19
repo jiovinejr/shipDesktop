@@ -16,7 +16,7 @@ public class HttpServer
         }
 
         _listener = new HttpListener();
-        _listener.Prefixes.Add(urlPrefix);
+        _listener.Prefixes.Add("http://100.125.51.23:5000/");
         _listener.Start();
         _isRunning = true;
 

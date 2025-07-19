@@ -1,11 +1,12 @@
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\ShipDesktop.exe
-C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\ShipDesktop.deps.json
-C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\ShipDesktop.runtimeconfig.json
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\ShipDesktop.dll
-C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\ShipDesktop.pdb
-C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Humanizer.dll
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\MaterialDesignColors.dll
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\ShipDesktop.deps.json
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\ShipDesktop.runtimeconfig.json
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\ShipDesktop.pdb
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Humanizer.dll
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
@@ -37,7 +38,6 @@ C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\System
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
-C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\System.Text.Json.dll
@@ -131,3 +131,11 @@ C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\obj\Debug\net8.0-windows\refint
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\obj\Debug\net8.0-windows\ShipDesktop.pdb
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\obj\Debug\net8.0-windows\ShipDesktop.genruntimeconfig.cache
 C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\obj\Debug\net8.0-windows\ref\ShipDesktop.dll
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jiovi\workspace\ShipDesktop\ShipDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
