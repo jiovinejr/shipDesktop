@@ -3402,6 +3402,7 @@
       "MaterialDesignThemes >= 5.2.1",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.7",
       "Microsoft.Extensions.Configuration.UserSecrets >= 9.0.7",
+      "Npgsql >= 9.0.3",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.4"
     ]
   },
@@ -3467,6 +3468,10 @@
           "Microsoft.Extensions.Configuration.UserSecrets": {
             "target": "Package",
             "version": "[9.0.7, )"
+          },
+          "Npgsql": {
+            "target": "Package",
+            "version": "[9.0.3, )"
           },
           "Npgsql.EntityFrameworkCore.PostgreSQL": {
             "target": "Package",
